@@ -1,0 +1,25 @@
+#header{
+		background:#4e6291;
+		color:#fff;
+}
+
+div.breadcrumbs{
+		background:#ea6e68;
+		color:#fff
+}
+
+div.breadcrumbs a:focus, div.breadcrumbs a:hover{
+		color:#4e6291;
+}
+
+.button, input[type="submit"], input[type="button"], .submit-row input, a.button{
+		background:#4e6291;
+		color:#fff;
+}
+
+.module h2, .module caption, .inline-group h2{
+		background:#ea6e68;
+		color:#fff;
+}
+
+
